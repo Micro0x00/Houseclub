@@ -40,3 +40,5 @@ I saw that project with the Clubhouse API reverse engineersed and thought to mys
 
 ### How do I build this?
 Import into Android Studio and click "run". Or, there's an apk you can install in the releases section.
+### Download Apk [Apk Here](https://github.com/Micro0x00/Houseclub/raw/master/Houseclub-release.apk)
+
